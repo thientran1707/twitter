@@ -5,6 +5,11 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 #Use to encrypt the password
 gem 'bcrypt', '3.1.7'
+
+gem 'faker' , '1.4.2'
+gem 'will_paginate', '3.0.7'
+
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use Bootstrap
 gem 'bootstrap-sass', '3.2.0.1'
 # Use SCSS for stylesheets
